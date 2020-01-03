@@ -1,4 +1,4 @@
-2020年 01月 03日 星期五 15:47:01 CST
+2020年 01月 03日 星期五 16:07:24 CST
 <!DOCTYPE html>
 <!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
 <!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
@@ -37,9 +37,9 @@
           <div class="yjs-columns two">
             <div class="yjs-column">
               <div class="yjs-highlight-inverse yjs-form-stacked">
-                <form class="challenge-form" id="challenge-form" action="/?__cf_chl_captcha_tk__=2fbb70c29777cd359bc859490a185908623c306b-1578037623-0-ATqoJjazfAn3FCN0SsBKvtiDqRZvOlOGQvCGJ9yKI35hLEjGyDU7Fl9ps0cP4zmZk-gKTmQb668pFLvhV1cdvRg8mSmXG9qiTZwqdfYXYlDjmhyAMuGVcCzCZaFrwfYh2bR2jQpf2brgBKNslmk1cLTY-Zs3eUpwD80BU7jxIXMcWg8Xm9WhIv-PLvgLI6zEk9XUE7olrO0HW_wfMPatyD9Azq0f0qqfVO7TiOq70xoGu8Lmy_ULdh9bQtqhhi8ktsgCG78dRYgwsadMahPYDTqkVvMxub2SeRskn7Qq1YSR" method="POST" enctype="application/x-www-form-urlencoded">
-  <input type="hidden" name="r" value="d8fc43af8eb4f48bcfdbb91c0f1f2966279e8a52-1578037623-0-AVeIriup57Bx6v2T5O7IX7xNNVxCITyjGB27VsEuxNpu3jE9hGJzRiKuppI+lawJSgkSCW3j+d7M32vGLF2xCyon+hAJW2ri6UOvU+xrbSzxijMtCy4iYwJWzEGs1haQXYPl5NOM53g1UYCuA68GQMXS+2M1UJk20fWE7646Vqa2V7k8twb/EFVZYbEW8+lTjp1uV1qtI0/983hrvBCfE77SIZ5/eGPQAgRvNbnw/MuA+icqZawL+PcY1MkT5tb3iiaT2d+vzhNFgDCTZgyIVl32mqpb4ZlChFT5Jels4yBKITE4w+Fr09Hrz/MnfU3fhNc04UZI3SBeJosWBgLn/2JJQoMzabTMGSrJhb1wztFPVwdkwku74w34BAer75NZ656e6W+u00afkww1AeB6heTyIfno0r+AVL8EjG0qZ3BfD21Wo+n2EVgzWHdJfCGb8DQ9SKuk8IYIniRscxJ4sqg=">
-  <script type="text/javascript" src="/cdn-cgi/scripts/baidu.challenge.js" data-type="normal"  data-ray="54f35cc82ca9ed3b" async></script>
+                <form class="challenge-form" id="challenge-form" action="/?__cf_chl_captcha_tk__=b39bce47eafcc2c0e9f56d82bee0ab2b4dd319e9-1578038845-0-Af0Cv6y5eMlsAp-j3tY2oTR5fnLJrjwBd6hRx8EqsQiJ_LZ7quNze0E9uvfMhbBcTkrE4wI6osx8nqJjqkjBpIn5Y82ktvoIM-KyAGlxiZu8Cxg8FCMDy-zf4TLBYOJMmyL5ZssmKGca-BVZMmw-ANcXvkb8C1NM2dacXxPqN5P2ts2-IdBLJtktSs_QVFFw1erWcrWXWOinBm9PRTl2c3WuflCjHKTBepXXvfvohufsS048B1-qpdBozG_-oTQ8kRdo0gSoQPr82ejmwqZ8oRb9nWKtNlXkkle82BmfUpVK" method="POST" enctype="application/x-www-form-urlencoded">
+  <input type="hidden" name="r" value="0acf5787c1784912051902d1dd8238fec58c83ca-1578038845-0-AT0MYemojm5pqpUymoH6Qx/5qXOQKouvS8GYtRiHkan7FWaJtzkgWG7Bc3XTavfzHmNBTIqloB7IhTUnOn0ShXF74CTGsy0fvIC83z3gU67LnD0ImyD/gqJXQ/C24YNt7ua2Z2Lyw/YD2Pdvgqwoid249uV7pIe3PRVCqTqbvKQgvUCwjvPvphRf7MaM0Jjsgl0UAsaG4eyI6yL4Ir4KozfoxTnvjhRg370fH7qcGe/vtd9EeQL6Q6eFOaw1rqfjjDdv1I3Wo9H9N5COVv6dusODuFvVSQDewuKBgbDdnghU5jsCnyBJPjbci6wv9UIUDDzBY0jUJPY8PVpr1eIyXoYtKpaQH5qZP1C0cOxNQtvAE7nC+mAQGJbl+KDtFNcQPmUjRpsni6K9fnLUxrRUfu680yB30tM9m/JGq80IV1kDjNiSQSGWDUZlf6ApWqUG8JtZDBbAJsVQyJswROcUle8=">
+  <script type="text/javascript" src="/cdn-cgi/scripts/baidu.challenge.js" data-type="normal"  data-ray="54f37a9e79b493ca" async></script>
   <noscript id="yjs-captcha-bookmark" class="yjs-captcha-info">
     <p>访问本页面,您的浏览器需要支持JavaScript</p>
   </noscript>
@@ -61,4 +61,52 @@
 
       <div class="yjs-section yjs-wrapper">
         <div class="yjs-columns two">
-          <di
+          <div class="yjs-column">
+            <h2 data-translate="why_captcha_headline">为什么会出现验证码?</h2>
+
+
+            <p data-translate="why_captcha_detail">
+              <ol>
+                <li>检测到您的IP有风险行为，通过输入验证码来确认非机器访问</li>
+                <li>网站管理员开启了某些安全功能，需要对访客进行验证</li>
+                <li>您的网络是公共出口IP（比如，网吧、公司、ADSL拨号等），其他人的行为导致出口IP被标记为风险，需要用户通过验证方式访问</li>
+                <li>您的网络环境可能存在风险</li>
+              </ol>
+            </p>
+          </div>
+
+          <div class="yjs-column">
+            <h2 data-translate="resolve_captcha_headline">我应该怎么做？</h2>
+
+            <p data-translate="resolve_captcha_network">
+              <ol>
+                <li>通常输入验证码，通过验证后即可正常访问网站</li>
+                <li>可以尝试切换网络（WiFi、4G）、更换IP来解决</li>
+                <li>如果您是私人电脑，还可以通过杀毒、安全扫描等方式，消除风险</li>
+                <li>如果您是共用网络，请联系网络管理员处理</li>
+                <li>如果网站管理员开启了某些安全功能，请联系网站管理员进行处理</li>
+              </ol>
+            </p>
+          </div>
+        </div>
+      </div><!-- /.section -->
+
+      <div class="yjs-error-footer yjs-wrapper">
+  <p>
+    <span class="yjs-footer-item">Event ID: <strong>54f37a9e79b493ca</strong></span>
+    <span class="yjs-footer-item"><span>您的IP</span>: 218.22.21.24</span>
+  </p>
+</div><!-- /.error-footer -->
+
+
+    </div><!-- /#yjs-error-details -->
+  </div><!-- /#yjs-wrapper -->
+
+  <script type="text/javascript">
+  window._yjs_translation = {};
+  
+  
+</script>
+
+</body>
+</html>
