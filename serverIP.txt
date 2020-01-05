@@ -1,1 +1,112 @@
-2020年 01月 05日 星期日 17:55:32 CST
+2020年 01月 05日 星期日 18:10:08 CST
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>安全检查! | 百度云加速</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1" />
+<link rel="stylesheet" id="yjs_styles-css" href="/cdn-cgi/styles/baidu.errors.css" type="text/css" media="screen,projection" />
+<!--[if lt IE 9]><link rel="stylesheet" id='yjs_styles-ie-css' href="/cdn-cgi/styles/baidu.errors.ie.css" type="text/css" media="screen,projection" /><![endif]-->
+<style type="text/css">body{margin:0;padding:0}</style>
+
+
+<!--[if gte IE 10]><!--><script type="text/javascript" src="/cdn-cgi/scripts/zepto.min.js"></script><!--<![endif]-->
+<!--[if gte IE 10]><!--><script type="text/javascript" src="/cdn-cgi/scripts/baidu.common.js"></script><!--<![endif]-->
+
+<link rel="stylesheet"  href="//idm-su.baidu.com/config.css?r=20171010" type="text/css"  />
+
+
+</head>
+<body>
+  <div id="yjs-wrapper">
+    <div class="yjs-alert yjs-alert-error yjs-cookie-error" id="cookie-alert" data-translate="enable_cookies">请打开cookies。</div>
+    <div id="yjs-error-details" class="yjs-error-details-wrapper">
+      <div class="yjs-wrapper yjs-header yjs-error-overview">
+        <h1 data-translate="challenge_headline">只差一步</h1>
+        <h2 class="yjs-subheadline"><span data-translate="complete_sec_check">输入验证码，可以浏览</span> v4.ifconfig.co</h2>
+      </div><!-- /.header -->
+
+      <div class="yjs-section yjs-highlight yjs-captcha-container">
+        <div class="yjs-wrapper">
+          <div class="yjs-columns two">
+            <div class="yjs-column">
+              <div class="yjs-highlight-inverse yjs-form-stacked">
+                <form class="challenge-form" id="challenge-form" action="/?__cf_chl_captcha_tk__=84581107d4eb5025c9a9e74ae5956b972ddf4e8d-1578219010-0-AeuFmPPguS-n7wg9nRvRuGcE5ctCS3yu_s6Mc0k-2ZxtLGx_OzcaIayn4hPIaT7j8SAvKq1Cz18Y7XskVE3XXJ8QCO3ywhq2czkyx-Ormfj4wInqBsB45i6MgySeopyj2ZcERXP3awtxSZ4h6yua4qJ1hnPw1HnzxGlt8Mt9xZOTn02IxK6Bgk20OorQOE9VDEWag7E1LYi3aP-ki3ja3bYNvptEF-PgTR0DJTJjlZc4ohi7kSv9Ox_Xp4WljVP7-13mA4QxKoa7NRzPi5LIU5q1B4cusOmwENWLWlOShN1h" method="POST" enctype="application/x-www-form-urlencoded">
+  <input type="hidden" name="r" value="e0b1eaf91291fa69b36a4460bbf04b2c9730fed0-1578219010-0-AQJYJlNOM87nY7SUNRDTbwZvtxnPtbypXsQiTbCZe0A9qZadaoOtX6Ug6efsrCREBNXKiblqVTO51OI2MPtCvOchFDN3tdsXjEXULrw97UgdPEyH2VM/MLtaPXGCW48GFBxQhMCAEo91n4eA/7oM4SiJVKeq77B8/0lRLe4jkxVzglESOMgJ3Irjdul76lcCLIbr7ghvwV27Z+FsfSxfRlaYerXHXVJCFVZGEx2Q/dB7bajQcf4mmNzTcTVcaCHv6OGe+OBP+0yjRPhFUb2Qe7EQY/7+KRNs2JNGMmC3T0oz6OKo0zUlZBBJGZuEvajKvk1q400qYIT+NYE/ywGEVVzoboB9TX6hbeK6Hj68KDJADLkxtOapF0rxffq84T3BbtAHrjevRuNGjgmeWZGUGv8pH+JMhpzON+u6d7n+DLYM5qdX4pN2tYXIjCJc0qOtj/vn9NzQN9rHGnjsv6dog8g=">
+  <script type="text/javascript" src="/cdn-cgi/scripts/baidu.challenge.js" data-type="normal"  data-ray="5504a92d8c396caa" async></script>
+  <noscript id="yjs-captcha-bookmark" class="yjs-captcha-info">
+    <p>访问本页面,您的浏览器需要支持JavaScript</p>
+  </noscript>
+</form>
+
+              </div>
+            </div>
+
+            <div class="yjs-column">
+              <div class="yjs-screenshot-container">
+              
+                <span class="yjs-no-screenshot"></span>
+              
+              </div>
+            </div>
+          </div><!-- /.columns -->
+        </div>
+      </div><!-- /.captcha-container -->
+
+      <div class="yjs-section yjs-wrapper">
+        <div class="yjs-columns two">
+          <div class="yjs-column">
+            <h2 data-translate="why_captcha_headline">为什么会出现验证码?</h2>
+
+
+            <p data-translate="why_captcha_detail">
+              <ol>
+                <li>检测到您的IP有风险行为，通过输入验证码来确认非机器访问</li>
+                <li>网站管理员开启了某些安全功能，需要对访客进行验证</li>
+                <li>您的网络是公共出口IP（比如，网吧、公司、ADSL拨号等），其他人的行为导致出口IP被标记为风险，需要用户通过验证方式访问</li>
+                <li>您的网络环境可能存在风险</li>
+              </ol>
+            </p>
+          </div>
+
+          <div class="yjs-column">
+            <h2 data-translate="resolve_captcha_headline">我应该怎么做？</h2>
+
+            <p data-translate="resolve_captcha_network">
+              <ol>
+                <li>通常输入验证码，通过验证后即可正常访问网站</li>
+                <li>可以尝试切换网络（WiFi、4G）、更换IP来解决</li>
+                <li>如果您是私人电脑，还可以通过杀毒、安全扫描等方式，消除风险</li>
+                <li>如果您是共用网络，请联系网络管理员处理</li>
+                <li>如果网站管理员开启了某些安全功能，请联系网站管理员进行处理</li>
+              </ol>
+            </p>
+          </div>
+        </div>
+      </div><!-- /.section -->
+
+      <div class="yjs-error-footer yjs-wrapper">
+  <p>
+    <span class="yjs-footer-item">Event ID: <strong>5504a92d8c396caa</strong></span>
+    <span class="yjs-footer-item"><span>您的IP</span>: 218.22.21.24</span>
+  </p>
+</div><!-- /.error-footer -->
+
+
+    </div><!-- /#yjs-error-details -->
+  </div><!-- /#yjs-wrapper -->
+
+  <script type="text/javascript">
+  window._yjs_translation = {};
+  
+  
+</script>
+
+</body>
+</html>
