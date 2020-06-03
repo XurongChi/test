@@ -1,7 +1,27 @@
-2020年 06月 03日 星期三 08:01:26 CST
-<html><head>
-<title>redirecting to http://wlt.ustc.edu.cn</title>
-</head><body>
-<h1>redirecting to http://wlt.ustc.edu.cn</h1>
-<script language="javascript">window.location.href = "http://wlt.ustc.edu.cn/cgi-bin/ip?url=http://v4.ifconfig.co/&dip=104.28.19.94";</script><p>redirecting to <a href="http://wlt.ustc.edu.cn/">http://wlt.ustc.edu.cn/</a>.</p>
-</body></html>
+2020年 06月 03日 星期三 08:13:37 CST
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8">
+<title>Application Error</title>
+<style media="screen">
+		  html,body,iframe {
+			margin: 0;
+			padding: 0;
+		  }
+		  html,body {
+			height: 100%;
+			overflow: hidden;
+		  }
+		  iframe {
+			width: 100%;
+			height: 100%;
+			border: 0;
+		  }
+		</style>
+<script async src='/cdn-cgi/bm/cv/1284585713/api.js'></script></head>
+<body>
+<iframe src="//www.herokucdn.com/error-pages/application-error.html"></iframe>
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'59d5359b1e4ee7c9',m:'974d92789a55c419150e47bea710e6cf82029235-1591143218-1800-AWb/DTx9zl4TufZBVyvXt/Fqc7Occ7lHL7LVd80QkJPS3pNH5R97OwW+l0QHlCuWFq7dGcKySYxUWZmngEOfzE20zhEqLZ8AXxAIiYJ2uhyveL1/lFD3h5gzt2SAKAY2jw==',s:[0xf2e0f28e60,0xe89d623a54],}})();</script></body>
+</html>
