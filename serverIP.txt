@@ -1,8 +1,2 @@
-2020年 07月 07日 星期二 09:28:01 CST
-<html>
-<head><title>522 Origin Connection Time-out</title></head>
-<body bgcolor="white">
-<center><h1>522 Origin Connection Time-out</h1></center>
-<hr><center>cloudflare-nginx</center>
-</body>
-</html>
+2020年 07月 07日 星期二 09:38:40 CST
+222.195.75.230
