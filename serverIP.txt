@@ -1,8 +1,2 @@
-2020年 08月 24日 星期一 03:17:20 CST
-<html>
-<head><title>520 Origin Error</title></head>
-<body bgcolor="white">
-<center><h1>520 Origin Error</h1></center>
-<hr><center>cloudflare-nginx</center>
-</body>
-</html>
+2020年 08月 24日 星期一 03:27:28 CST
+222.195.75.230
