@@ -1,8 +1,2 @@
-2020年 08月 25日 星期二 05:28:39 CST
-<html>
-<head><title>504 Gateway Time-out</title></head>
-<body bgcolor="white">
-<center><h1>504 Gateway Time-out</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
+2020年 08月 25日 星期二 05:40:05 CST
+222.195.75.230
