@@ -1,7 +1,2 @@
-2020年 08月 30日 星期日 11:23:18 CST
-<html><head>
-<title>redirecting to http://wlt.ustc.edu.cn</title>
-</head><body>
-<h1>redirecting to http://wlt.ustc.edu.cn</h1>
-<script language="javascript">window.location.href = "http://wlt.ustc.edu.cn/cgi-bin/ip?url=http://v4.ifconfig.co/&dip=172.67.133.228";</script><p>redirecting to <a href="http://wlt.ustc.edu.cn/">http://wlt.ustc.edu.cn/</a>.</p>
-</body></html>
+2020年 08月 30日 星期日 11:35:29 CST
+222.195.75.230
