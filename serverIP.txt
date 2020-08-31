@@ -1,8 +1,2 @@
-2020年 08月 31日 星期一 21:13:10 CST
-<html>
-<head><title>524 Origin Time-out</title></head>
-<body bgcolor="white">
-<center><h1>524 Origin Time-out</h1></center>
-<hr><center>cloudflare-nginx</center>
-</body>
-</html>
+2020年 08月 31日 星期一 21:25:16 CST
+222.195.75.230
