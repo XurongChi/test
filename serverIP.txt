@@ -1,8 +1,2 @@
-2020年 09月 09日 星期三 22:41:24 CST
-<html>
-<head><title>502 Bad Gateway</title></head>
-<body bgcolor="white">
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
+2020年 09月 09日 星期三 22:51:34 CST
+222.195.75.230
