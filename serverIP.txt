@@ -1,2 +1,7 @@
-2021年 01月 21日 星期四 15:22:12 CST
-218.104.71.166
+2021年 01月 21日 星期四 15:32:20 CST
+<html><head>
+<title>redirecting to http://wlt.ustc.edu.cn</title>
+</head><body>
+<h1>redirecting to http://wlt.ustc.edu.cn</h1>
+<script language="javascript">window.location.href = "http://wlt.ustc.edu.cn/cgi-bin/ip?url=http://v4.ifconfig.co/&dip=104.21.25.86";</script><p>redirecting to <a href="http://wlt.ustc.edu.cn/">http://wlt.ustc.edu.cn/</a>.</p>
+</body></html>
