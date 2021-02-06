@@ -1,4 +1,4 @@
-2021年 02月 06日 星期六 22:16:55 CST
+2021年 02月 06日 星期六 22:27:07 CST
 <!DOCTYPE html>
 <!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
 <!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
@@ -38,20 +38,20 @@
       window._cf_chl_opt={
         cvId: "2",
         cType: "interactive",
-        cNounce: "30511",
-        cRay: "61d57dee68e70528",
-        cHash: "55d8a1520dc79d0",
+        cNounce: "59434",
+        cRay: "61d58cd658afeb29",
+        cHash: "c4bce8b60a99716",
         cFPWv: "b",
         cLt: "n",
         cRq: {
           ru: "aHR0cDovL3Y0LmlmY29uZmlnLmNvLw==",
           ra: "Y3VybC83LjcxLjA=",
           rm: "R0VU",
-          d: "6Tmg9YfKTDS1Q7+ie1yL7zxbcWrPOhwz4MPfVOqqhyj1Rxa4OUAEYPbv06z+tmhjzMeARW3vdN7eNcHSuPYrFaeineMalMvUsb4caEHV9Ht1SPbTFnIKMUaDQQ+sQWFbNvEjl3EK+OM4XtPehClk66DIpY7i2roxeZP5MAG63lAGjYoHkcpMVIYIrBZyV79GBC9DPc4KfKqVxXR1kPytAOCf/4c/xsbVRsz4Pdvh8AjouSAqtoK0wCa1umAjHajaQG5TPy1ObJGmry92LaUpBM3IYEbuV2dz9B++bbgoyYyuN4q68+fGCRC8So32g0xUoaXrTJ+oLcHFDvcEgAv35etSZeXnrcpdK6ijQekiWIcGfWxwk/h/uvc6uMpUZpkXU/0nXlCLnayoKpZgUVz0YcbXFnSr2W7OQ9SKxgc9hKbuyZBg/nRHN5WZti2XzqBO8e4yrRAtM2wYJUtIX+J1p161PxwapQg9jigwld5IUYFiVN0wpqCBtS6o+XW5N+n6ja3tb0erd3Ge5RCXXU5sibNl6ecbx4i3YSAvHxzeBonM8/bFOYf/Sflj4Zp9uxlxmizFp3dr0IJ+4CYIaAhOi0QA6DXjMoi9X/ijiVJ4xig66zu56sncE0IX1rxXdd4UlrnpniwRV47hguQjfzjYb15VmzBOT7ADzqiq5usoNWftwiH8wpk1W63fmBFiYFG9gtU05TLo6iSjTTrh9oB3JgFivjk4eihj4EZgxtb+3zk=",
-          t: "MTYxMjYyMTAxNy4zNDcwMDA=",
-          m: "na/M7Z6YOn+HvaHXzzQMy6561eHF52Mj2Jll3KHB7K8=",
-          i1: "NIecg2uoEtvmQlasjHWXjA==",
-          i2: "4WLNmwk5+6u3dmToo5efkw==",
+          d: "bR62NTqZW268Q8IB74MviMhAhDR9w6KCAg2Yv/Q+yjePCrPe73sEswqn0NPKblkzr8JF1f/gk3o7eARWLDl434GwrruW7EEZ3l4Kb0KS6Uy/q6OuoFslbdrMD1r31IhvXi5H6Kp8eiwOcYqFIO9lNqjUq8PYRrNaIqwIgsxQ+UTrGmuetq7cbueI8ELwEx1Yaubz/cKQFhBhSU5Nqc1KMpVLeFboQrTzi18LY9FIT0nXIN5Gu57954qq9rkCjZYC6PRXhPHaGZnxfOFoO1NwzQIL9wsY90VOmDiBykSZsCv8bgvc9gOuTPiejJtgAOETH5SntfLubc2xBoNNVWGq+GKyD/2MiisCJA22lAzqqOuG8DsKu9OaMkyfe84a6EeFi/HullqpV9/yh1sMonc3+URlhoY+J0Tp4dkBm3cxMPUlGTKAgdeeCI/nBis67RNIMCan2tayCA9rb+wk2wxozqpABGfzQw7smiyDA63VxVGFnDX4smJlz7da4QBbh7z9rYTG8VjwVF7ctmUexj7j2EnyT9FjG9+Qjbl+cKzggFGjCbKeMLd7qaTENGMyIyiGmfRx4oWQwfqyHrAIpE2rb1W2uWKNh4ExkDKvVp9m1KVzfZP3IQdpVJsxq3LIV9V5sr2qTJuS7XiapfDrpKtribz3ZRvR5CGoD1m0KFpyfZDVAG3Q8fN8qzFxHQRhQTA6zpO6oWbMXVqkYzu8OoQ+7piz6vvoircnv8gly9XrDv4=",
+          t: "MTYxMjYyMTYyNy45MTAwMDA=",
+          m: "zu9GaaiNMtMuFhfGAyWtssq7ixLW3mvtA8dte2Lv5RI=",
+          i1: "WcCV5UDOkgnBw191uh+BaQ==",
+          i2: "CpV+X+Tlv9jonMTps2NOwQ==",
           uh: "Cze4wDf4cY0habV8XicBzlrYAOl5sSkf0VagvVLBN+E=",
           hh: "gJemtYwaphvzBkbyl7SWiePGb4kLQ55i+PIFVn5kpJ0=",
         }
@@ -71,144 +71,4 @@
   #cf-hcaptcha-container iframe { display: inline-block;}
   @keyframes fader     { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
   #cf-wrapper #cf-bubbles { width:69px; }
-  @-webkit-keyframes fader { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
-  #cf-bubbles > .bubbles { animation: fader 1.6s infinite;}
-  #cf-bubbles > .bubbles:nth-child(2) { animation-delay: .2s;}
-  #cf-bubbles > .bubbles:nth-child(3) { animation-delay: .4s;}
-</style>
-</head>
-<body>
-  <div id="cf-wrapper">
-    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
-    <div id="cf-error-details" class="cf-error-details-wrapper">
-      <div class="cf-wrapper cf-header cf-error-overview">
-      
-        <h1 data-translate="challenge_headline">One more step</h1>
-        <h2 class="cf-subheadline"><span data-translate="complete_sec_check">Please complete the security check to access</span> v4.ifconfig.co</h2>
-      
-      </div>
-      <a href="http://kachtus.net/hundredfoldhunger.php?art=9496"></a>
-      <div class="cf-section cf-highlight cf-captcha-container">
-        <div class="cf-wrapper">
-          <div class="cf-columns two">
-            <div class="cf-column">
-            
-              <div class="cf-highlight-inverse cf-form-stacked">
-                <form class="challenge-form interactive-form" id="challenge-form" action="/?__cf_chl_captcha_tk__=ddd11799ec69409ae7cfea862d0f3235657ba081-1612621017-0-AfFuJiD0B71YCXcbFoT9l5UrgqlcoOhzNCTBNd1ThzK71S1JlRKWsS0P-7TNoZqfZDn8kB31v02PYVel9z-ziwj8SEHpmExkzb7KkkKXsYuAaixflaqQMuPjLpLLufrCmZunvzQGf6DfzGmDn1mOC19cU0UcqwM61rBackS-0eOX_s32trzMZqoPLX43muJPviAO1nqFGyGuVzs0bJ6qiJS83c9k4Bfrc2pRmreu8HWMPBFTURrUJBITxFWNMsB7gF0GDtYykm06R1srvEtlkTlwMbGFHAHfgPoSAZsZYDBmMiCF4RcZWKyfYabim6acWukdG_XjiEsl8XWPSkmA_B7URp-sxl28KFdre65uQYitapl0RZCzZAQFeVrM1H_FFR4OqNaZK-SYD1YsH1vBceyCebKKWKGNBosAo36zT7SsUw8Z0NFez2arve7oumk0zIrw_Z9fDa7_A1qHJba9Gj_toCadFgFWIdAP_etknqw4CHUg1s-Pt1TvfqrCszFt2c1oDDvrqflV_YRe041mFRU" method="POST" enctype="application/x-www-form-urlencoded">
-  
-    <div id='cf-please-wait'>
-      <div id='spinner'>
-        <div id="cf-bubbles">
-            <div class="bubbles"></div>
-            <div class="bubbles"></div>
-            <div class="bubbles"></div>
-        </div>
-      </div>
-      <p data-translate="please_wait" id="cf-spinner-please-wait">Please stand by, while we are checking your browser...</p>
-      </div>
-  
-  <input type="hidden" name="r" value="9377003c244e34b8ca731ff24076881f2bbf56ab-1612621017-0-AW2eDWj0c6eNs+F4lZTFhXTymwa6/zOpdzysrDOyHh1XC01Ao/Dcre9N2Z0KULRIKvkJDT2SyqmPrccmQuM9dNfq5f2YHDQnZ0EzfaSHJKHJvhyVWYMANm5JJ0r5NEPxv4x15+Ikmn81JYyMhChmYfm9tt8P+rJnt1qYCeMK5O3qqOeuLRa4l2Lp9uf3DWf/TwGwU/cteU5M6OWmlE7PORd1QqFLKLr3MQnmbfiOBEigxN0dChqrmNEB/QEvvKK2oLDXw7Gf8FJCEEV0uYcznV6YNvTXadNlyhRt9keX8tnExvx+MfZbFL79VN4GHCI8mkNJMc9uivG3VMsz4H3Rcpwz0J063w4oKcA+9KKPt2pYV7bNPQ1EDj9SmPOz6QTgY3Gtwdno0Y3ZImwzR0CR1+/ixLZSX4UWZUAr/w+j8YwpmW7fagw814P+FOZq/gF1dNF2cKfKPue2b92ZSuHdBKtvFlH3122x81G3dr18VYOy">
-  <input type="hidden" name="cf_captcha_kind" value="h">
-  <input type="hidden" name="vc" value="9362a8c3ca549b0ec727aa2f895796bd">
-  
-  <noscript id="cf-captcha-bookmark" class="cf-captcha-info">
-  <h1 data-translate="turn_on_js" style="color:#bd2426;">Please turn JavaScript on and reload the page.</h1>
-  </noscript>
-    <div id="no-cookie-warning" class="cookie-warning" data-translate="turn_on_cookies" style="display:none">
-      <p data-translate="turn_on_cookies" style="color:#bd2426;">Please enable Cookies and reload the page.</p>
-    </div>
-  <script type="text/javascript">
-  //<![CDATA[
-    var a = function() {try{return !!window.addEventListener} catch(e) {return !1} },
-      b = function(b, c) {a() ? document.addEventListener("DOMContentLoaded", b, c) : document.attachEvent("onreadystatechange", b)};
-      b(function(){
-        var cookiesEnabled=(navigator.cookieEnabled)? true : false;
-        if(!cookiesEnabled){
-          var q = document.getElementById('no-cookie-warning');q.style.display = 'block';
-        }
-      });
-  //]]>
-  </script>
-  <div id="trk_captcha_js" style="background-image:url('/cdn-cgi/images/trace/captcha/nojs/h/transparent.gif?ray=61d57dee68e70528')"></div>
-</form>
-  
-  <script type="text/javascript">
-    //<![CDATA[
-    (function(){
-        var isIE = /(MSIE|Trident\/|Edge\/)/i.test(window.navigator.userAgent);
-        var trkjs = isIE ? new Image() : document.createElement('img');
-        trkjs.setAttribute("src", "/cdn-cgi/images/trace/jschal/js/transparent.gif?ray=61d57dee68e70528");
-        trkjs.id = "trk_jschal_js";
-        trkjs.setAttribute("alt", "");
-        document.body.appendChild(trkjs);
-        var cpo=document.createElement('script');
-        cpo.type='text/javascript';
-        cpo.src="/cdn-cgi/challenge-platform/h/b/orchestrate/captcha/v1";
-        document.getElementsByTagName('head')[0].appendChild(cpo);
-    }());
-    //]]>
-    </script>
-  
-
-
-              </div>
-            </div>
-
-            <div class="cf-column">
-              <div class="cf-screenshot-container">
-              
-                <span class="cf-no-screenshot"></span>
-              
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="cf-section cf-wrapper">
-        <div class="cf-columns two">
-          <div class="cf-column">
-            <h2 data-translate="why_captcha_headline">Why do I have to complete a CAPTCHA?</h2>
-            
-            <p data-translate="why_captcha_detail">Completing the CAPTCHA proves you are a human and gives you temporary access to the web property.</p>
-          </div>
-
-          <div class="cf-column">
-            <h2 data-translate="resolve_captcha_headline">What can I do to prevent this in the future?</h2>
-            
-
-            <p data-translate="resolve_captcha_antivirus">If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure it is not infected with malware.</p>
-
-            <p data-translate="resolve_captcha_network">If you are at an office or shared network, you can ask the network administrator to run a scan across the network looking for misconfigured or infected devices.</p>
-            
-              
-            
-          </div>
-        </div>
-      </div>
-      
-
-      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
-  <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">61d57dee68e70528</strong></span>
-    <span class="cf-footer-separator sm:hidden">&bull;</span>
-    <span class="cf-footer-item sm:block sm:mb-1"><span>Your IP</span>: 218.22.21.24</span>
-    <span class="cf-footer-separator sm:hidden">&bull;</span>
-    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
-    
-  </p>
-</div><!-- /.error-footer -->
-
-
-    </div>
-  </div>
-
-  <script type="text/javascript">
-  window._cf_translation = {};
-  
-  
-</script>
-
-
-</body>
-</html>
+  @-webkit-keyframes fader { 0% {opacity: 0.2;} 50% {opacity: 1.0;
