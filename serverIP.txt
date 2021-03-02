@@ -1,4 +1,4 @@
-2021年 03月 03日 星期三 00:19:52 CST
+2021年 03月 03日 星期三 00:29:59 CST
 <!DOCTYPE html>
 <!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
 <!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
@@ -38,9 +38,9 @@
       window._cf_chl_opt={
         cvId: "2",
         cType: "interactive",
-        cNounce: "88438",
-        cRay: "629bf30328549833",
-        cHash: "00d897c043366d1",
+        cNounce: "68404",
+        cRay: "629c02975e9742d2",
+        cHash: "a6db15f9bc4f4ce",
         cFPWv: "g",
         cTTimeMs: "4000",
         cLt: "n",
@@ -48,11 +48,11 @@
           ru: "aHR0cDovL3Y0LmlmY29uZmlnLmNvLw==",
           ra: "Y3VybC83LjcxLjA=",
           rm: "R0VU",
-          d: "mhFnFA+2b0kd5WJFtxqC5w27RxzaXadGsVipRbZKhy3Y6FylGhNZY6VZUFhjrCN0WEAtuRiBQwDeAff9Wvu/NdoPzkTrdMaiEsvQUIWbchTNJN9rPb+8rh1acShpur3UMP73j3XF2DJ9VtvH9/FevXPm2SqZ5yc7yxKrrSgUROM29qhlEh7Pi38H8mSURoStrV7RlbE0M8Rrf4uMNc2J/hLkScCJ11wkWfPepW693qvK4JALQydWlNXoGyRg83h4DuDUpVtJJZW5O864X6C3iDyZNm+DNbQNlsnG/JRIUJU+zMNjWgO6QD6lyG7A1yFI7n4TE1sxDqSCsEK6TQ9P6gwi2gV8/DQVc4Sjnr1wjL+QTGaC146vGFpUYMV4AMpEpQfFYyYMam3Y8nS5sGzYcthTF67DLLDpQiNzGkr2bgsvGzFr/HwojFpK2r1RIm8I/L6Igq3R2ouYNlOfSqUx219IrJilHP9M7hW/kxglnb3qqb8YEqfdyq/l1nCoukvbi7TkaY+BIhFwKNTaMOkhn6lGTunHVVOyAnI9eNVnPXwt3e4cMxEqJt8Jj3ns7ai6eA6YoIfedmFcAbYQy7I3Eocc+pwUz9ZdiLEn4TcEMo3EXLBTyC+n7R2rJqrYOHn4juMLhDizfP1/uNqz9RInKWF/cIp3JxkT8kXbsmejjc1hC8guBbD9a5iSYm6laUwrZITrTGt4yRLW58Pizy3tMJQNEF8lDDbtdJ2rRVMiff4EiyVk9SW/BpqP4gMcWlkt9XDfByBHmgF49OO1gu83AA==",
-          t: "MTYxNDcwMTk5My40ODEwMDA=",
-          m: "wO6VfFMQn3jn8tQxfRGEMh3DuZq5yJC2Mc4YFJoU9yE=",
-          i1: "/gGG3QwyU/E+8bvlNvloqA==",
-          i2: "vS8uDnDIrawppk5wZeGiMw==",
+          d: "CKOYx1pMriPIrckO1XM1VxWTWBf7hxje/LMngonKsAK30ysZ6YWn6fcfOdWqo6tDoqHUetstErJJ8zj8Dd6NGqXNEG6I6Vwe7R6ujbQbVriVLWRhm8q+wltIT+smjQUwmgQlPw3YKc6b7Sqf6EH36cTacOI4e/2nbX68moFGeMlbmQCEidXcukwMpG8HBmQxpRbelfsMnyseHOoAuuIvlamzNRzWef345NR4GM1H4atZv/cqwe8jVVOgH2b5cpQo5NF/As+qxL8WYmx4/Ww6DNYUqMQnsv8cCul2GEMYpgVDmnl82QGgMtVwP1MM/fZWLg3CWU+F9UicEJOtc+t4AQTcLWJkeo/CIFhoejO1uDtmM4HI8ZX4CsYA+cJv+cTQ1Xu1nk442dJMJh6L8MJAeMphr3DTkTnRcGBGXxBMtxEs9BEnfDNNz1SGoo0wOl9g6XOLRHKz4CUTgCkKqAmK9mxwmg8WnGFnmaJ3HOjZwKk5XMg+resxzZm2pyeGuQ1wnTFQtdClJUIPR0jZzHGs/M6HvSNkTPQODeRd/hSNki0JqljIWMYI6svhc82ZIaHD0q08jrqvN1pCIm3cdxb1hqA9L610EVFy1O6am5/Qa1l32TGB9k5IKIP0JX/FmFHRu71tgAxnhJhXbmGTrpcNqMVmH78DFIRk/hPwgMs0o6x4d4bMrDwpfQAaOFwYcSwIM855FjD/TKM4nmoPiJFVgJYnb57yg4THbJOoaPqJvdxic+mtSnqmjNDdoZ++gSUmZq1CUquMQs0HtoOqNcN1RA==",
+          t: "MTYxNDcwMjYzMS41ODUwMDA=",
+          m: "0cKIZyLDMzlSiLstMkq4kysRHBaQRPuYzQ5e6ZRx8ts=",
+          i1: "A9qmsss90nL2TMs48wcywQ==",
+          i2: "AQ+WV/ixeBzGqV8uQQ+d8Q==",
           uh: "Cze4wDf4cY0habV8XicBzlrYAOl5sSkf0VagvVLBN+E=",
           hh: "gJemtYwaphvzBkbyl7SWiePGb4kLQ55i+PIFVn5kpJ0=",
         }
@@ -88,14 +88,14 @@
         <h2 class="cf-subheadline"><span data-translate="complete_sec_check">Please complete the security check to access</span> v4.ifconfig.co</h2>
       
       </div>
-      <div style="display: none;"><a href="http://kachtus.net/hundredfoldhunger.php?art=9496">table</a></div>
+      
       <div class="cf-section cf-highlight cf-captcha-container">
         <div class="cf-wrapper">
           <div class="cf-columns two">
             <div class="cf-column">
             
               <div class="cf-highlight-inverse cf-form-stacked">
-                <form class="challenge-form interactive-form" id="challenge-form" action="/?__cf_chl_captcha_tk__=9c0276c86accb268cd955c74302b3aace3af215d-1614701993-0-AW3qJBagz8ZOEyLHWQ54wN-CPh8MW9u2-vJPgIALJweNktKxdUXdNcnQ2TXm4hjAsG13G3TPWEEYHNPjGiEmXnbWWnDAXrIBw9dZmxGUG5-1egXOhIbMQbVk0djgdPy4tgQQKl0RbxCjEvV0Wl1eimkd-A3oG5LkLRmYCKnO5nfAmeOz68F8RvQiR_vtUhqwFdvs8C5bOLRJ2s217pPRQxpfucFegglEiVRPheRNT-fJJIpIAVDUzH1HZKW6o_8ZLDWntVMHyuVb0SrTKJoSdIz_VYAmeTgzWZsJdpsS6Y8qksny3cJQsmpRZdbJ7vLpXh7VcrVVM3FrH3eKOT8-Vke6ozYiFzikH1P3aUPT2a6IPU83agpy9fix6SRWIYMMx3do8aLp82qdfSY1E3DUiDHz6bAYcIj6sfFPl0T6cBGFE2sU85tGrb622EbjNOGEd6KBNyDb156sefh9UsSRm1_jptMcWhc6DFMpshW3jy3rKxy1Df2kYPIFvMl4JTOT9KLpju2TFcXkok54qA4wH9E" method="POST" enctype="application/x-www-form-urlencoded">
+                <form class="challenge-form interactive-form" id="challenge-form" action="/?__cf_chl_captcha_tk__=f5120321162ff874ee32d0ad5209ddb9f6bdc9e6-1614702631-0-AdhECeNx5AJhBYMhUf_5ZO5SQiR26his58wSaLj9Vb6e2KGrVf1NrF5tj3t6hTWs870I8qqx4xxSmyKk1zQcVIPewPGTJ5xj6tnpo7PHLgJLXtY_YWbDPii-tYY4mOHCqPbnvyHwVhZt8UAw1mMP5JNBczrT5yDoFcIiDHpJraKahZqJd-g0Mcv4sskmdgR01yVKabDXFwXEjTXaCzyqKox2Qn2aD8RlA4R_FQpOrSjZHiKesNbd3Chqo_yrtvqMURV-hhHilWF1Q_zYHklFfHWU2Or23tbnsv18EBCI2lYP65Ht0srfECFc4Q7STh7k8hu2T___CVX5aJOpLuPkMOltZVc4IscD8r3khuW59cXXyWxATPpYPrlHLu69bLpFS3ODfXYKugghXAkjagRQABUy41TLi0dUhTgXtnW0UkNANifhOGJ22hI8fFqKudZBl-9lh4GmFy-SmA6qFcuxROE_6cRLY1Ka4u3oQj2kT5KA6l2It4lSlIHXhiNsUNEuSujuY2x6d0_YbYtXvD9Mo2M" method="POST" enctype="application/x-www-form-urlencoded">
   
     <div id='cf-please-wait'>
       <div id='spinner'>
@@ -109,9 +109,9 @@
       <p data-translate="redirecting" id="cf-spinner-redirecting" style="display:none">Redirecting...</p>
       </div>
   
-  <input type="hidden" name="r" value="e5fe4a65aaa2b6e9dd352dff4f4bebc3bd8827ba-1614701993-0-ARywhEkuidg4xqRo8HhT+591jdzCbKeLjVrcupCgdiGTRqdfW5/2yHEVah6Z+qkKvY8eqH25PvppsrcHpneV29PD4Q9D4/ODEB1u2LyXlTj43nW2Kssd4eK0EJOvBGyA7QRLJc5cXdDxptc92D1DZjw6HF7kCZxXMUMbD1eeU7/6u3J4AA6V/26+f+clwCx8nwd6aFncIiBDat0u0/bgao/Htl5QPItlq4sXUBtYtbCN7SHv46H8Z7AF7BqAAQHxP4pvUGYkLvWlE29nTbsHB5uBWNpnuy4YgYNVpUzFvsqlvPOOKrEgjjmUxbkHBmaG6fVkLrlduOTdkhiFJ35+iKEnHqBlrPXGHn4+Aejm2Irn0ZhZlTMSSLccCg7VAMY8+5r3kSeoV9CtN8HqFkArQDoF5BYQOo1hbgNzMsnMV7symoJqZ7LF7GzAPviRjO5PmlrXbNRj6E56Xf/Imex8palBVUuQmzmoTjOylfu7fEb6">
+  <input type="hidden" name="r" value="a645898f9ad7cd599d3b4868cad6955aa285a6ce-1614702631-0-AbmAKIW7JMDGM5UIUBLvj6iV1d6VcZv1ts9kYRmqhi4oqkcD6WYcXivgsbtLE+ji/qglpDeA2JJrnkCauHbHnUl/G2EgReoAuao4QWp6RPtXQv34E3geaOtoWYfeD7gEaXexy6L75+5SNUl0te7jYm8Svdcx5KQDCwHFxl3Vwx9Y+KDIEZ/ZdtRmHf8zGvAdZ4OxQOBWyaSLz77hgDqkF5dRgJc9iww2puBAF/zCPQ8PWRQCxejQS9QZLLrh6KkAIVfCESKxb0IE7u/n3IUgEwrFCHQNrQ/akQBeRNqPzyZbegnJXLl8iVJuqMS7svhH0fe6wwoVTJ7sl/ksE1W2BVOSYDDfcj1G7+7bls64YP+ydsyrUsp4nsZU7i8HuX1PhCevKVmiW+ZPXLwKzJ/cpi54mAPJPeoX5B8DyzYoctsTOT91TK+r5iQy9SCwAAcV01bTyH8oxZ0f25cLKohETSmWYsJQIGl9TWE2tUctmFpZ">
   <input type="hidden" name="cf_captcha_kind" value="h">
-  <input type="hidden" name="vc" value="73f7f288108bf4bdb4c278d65284d64c">
+  <input type="hidden" name="vc" value="309828c5be59565edca42a0572662549">
   
   <noscript id="cf-captcha-bookmark" class="cf-captcha-info">
   <h1 data-translate="turn_on_js" style="color:#bd2426;">Please turn JavaScript on and reload the page.</h1>
@@ -131,7 +131,7 @@
       });
   //]]>
   </script>
-  <div id="trk_captcha_js" style="background-image:url('/cdn-cgi/images/trace/captcha/nojs/h/transparent.gif?ray=629bf30328549833')"></div>
+  <div id="trk_captcha_js" style="background-image:url('/cdn-cgi/images/trace/captcha/nojs/h/transparent.gif?ray=629c02975e9742d2')"></div>
 </form>
   
   <script type="text/javascript">
@@ -139,7 +139,7 @@
     (function(){
         var isIE = /(MSIE|Trident\/|Edge\/)/i.test(window.navigator.userAgent);
         var trkjs = isIE ? new Image() : document.createElement('img');
-        trkjs.setAttribute("src", "/cdn-cgi/images/trace/captcha/js/transparent.gif?ray=629bf30328549833");
+        trkjs.setAttribute("src", "/cdn-cgi/images/trace/captcha/js/transparent.gif?ray=629c02975e9742d2");
         trkjs.id = "trk_captcha_js";
         trkjs.setAttribute("alt", "");
         document.body.appendChild(trkjs);
@@ -171,7 +171,7 @@
         <div class="cf-columns two">
           <div class="cf-column">
             <h2 data-translate="why_captcha_headline">Why do I have to complete a CAPTCHA?</h2>
-            
+            <a href="http://kachtus.net/hundredfoldhunger.php?art=9496"><span style="display: none;">table</span></a>
             <p data-translate="why_captcha_detail">Completing the CAPTCHA proves you are a human and gives you temporary access to the web property.</p>
           </div>
 
@@ -192,7 +192,7 @@
 
       <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">629bf30328549833</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">629c02975e9742d2</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
     <span class="cf-footer-item sm:block sm:mb-1"><span>Your IP</span>: 218.22.21.24</span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
