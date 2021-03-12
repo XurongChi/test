@@ -1,8 +1,2 @@
-2021年 03月 12日 星期五 09:38:24 CST
-<html>
-<head><title>522 Origin Connection Time-out</title></head>
-<body bgcolor="white">
-<center><h1>522 Origin Connection Time-out</h1></center>
-<hr><center>cloudflare-nginx</center>
-</body>
-</html>
+2021年 03月 12日 星期五 09:49:02 CST
+222.195.75.230
